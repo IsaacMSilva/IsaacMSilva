@@ -123,29 +123,6 @@ Template base para portfólio pessoal, pronto para personalizar.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:3a0a0d,100:050607&height=110&section=footer" width="100%"/>
 
-2. Workflow da cobrinha
-
-Abra https://github.com/IsaacMSilva/IsaacMSilva/new/main e, no campo do nome, digite exatamente .github/workflows/snake.yml. As pastas são criadas sozinhas enquanto você digita. Depois cole o texto abaixo e clique em Commit changes:
-
-name: Gerar cobrinha de contribuições
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}srcset="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake.svg" />
   <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake-dark.svg" />
 </picture>

@@ -122,15 +122,3 @@ Template base para portfólio pessoal, pronto para personalizar.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:3a0a0d,100:050607&height=110&section=footer" width="100%"/>
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake.svg" />
-  <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake-dark.svg" />
-</picture>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=IsaacMSilva&color=c1121f&style=flat-square&label=visitas" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:3a0a0d,100:050607&height=110&section=footer" width="100%"/>

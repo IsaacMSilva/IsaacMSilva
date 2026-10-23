@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050607,50:3a0a0d,100:c1121f&height=220&section=header&text=Isaac Silva&fontSize=60&fontColor=e8e6e3&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Game%20Dev&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050607,50:3a0a0d,100:c1121f&height=200&section=header&text=Isaac%20Silva&fontSize=56&fontColor=e8e6e3&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Game%20Dev&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C1121F&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;Construindo+mundos+em+Godot+%E2%9A%94%EF%B8%8F;RPGs%2C+roguelikes+e+jogos+de+automa%C3%A7%C3%A3o;PWAs+offline-first+com+HTML%2C+CSS+e+JS;Arch+Linux+user+(btw)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C1121F&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+jogos+em+Godot+4+%E2%9A%94%EF%B8%8F;Apaixonado+por+automa%C3%A7%C3%A3o+e+produtividade" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/IsaacMSilva"><img src="https://komarev.com/ghpvc/?username=IsaacMSilva&color=c1121f&style=for-the-badge&label=VISITAS" /></a>
-<a href="https://github.com/IsaacMSilva?tab=followers"><img src="https://img.shields.io/github/followers/IsaacMSilva?style=for-the-badge&color=0d1117&labelColor=c1121f&label=SEGUIDORES" /></a>
+<a href="mailto:contato.isaacmangelli@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c1121f" /></a>
+<a href="https://www.linkedin.com/in/isaac-mangelli-silva-3765ab35a/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c1121f" /></a>
+<a href="https://IsaacMSilva.itch.io"><img src="https://img.shields.io/badge/itch.io-0d1117?style=for-the-badge&logo=itchdotio&logoColor=c1121f" /></a>
+<a href="https://discord.com/users/mangelli2806_42871"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c1121f" /></a>
+<a href="https://orcid.org/0009-0003-0677-5042"><img src="https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=c1121f" /></a>
 
 </div>
 
@@ -18,12 +21,13 @@
 ## `> whoami`
 
 ```yaml
-nome:        Isaac Silva
-local:       São Paulo, Brasil 🇧🇷
-cargo:       Desenvolvedor Full Stack
-foco:        Front-end, back-end e desenvolvimento de jogos (Godot 4)
-estudando:   Arquitetura de jogos, shaders, 3D e IA aplicada a gameplay
-sistema:     Fedora 44
+nome:       Isaac Silva
+local:      São Paulo, Brasil 🇧🇷
+formação:   Análise e Desenvolvimento de Sistemas (em andamento)
+foco:       Front-end, back-end e desenvolvimento de jogos (Godot 4)
+estudando:  Arquitetura de jogos, shaders, 3D e IA aplicada a gameplay
+curto:      Automação, assistentes virtuais e ferramentas de produtividade
+sistema:    Fedora Linux
 ```
 
 ---
@@ -32,92 +36,61 @@ sistema:     Fedora 44
 
 <div align="center">
 
-**Game Dev**
-
-<img src="https://skillicons.dev/icons?i=godot,blender,python&theme=dark" />
-
-**Web & Apps**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" />
-
-**Back-end & Banco de Dados**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,sqlite&theme=dark" />
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=arch,linux,git,github,vscode&theme=dark" />
+| Área | Tecnologias |
+|:---:|:---:|
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark" /> |
+| **Back-end & BD** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,sqlite&theme=dark" /> |
+| **Game Dev** | <img src="https://skillicons.dev/icons?i=godot,blender&theme=dark" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" /> |
 
 </div>
 
 ---
 
-## `> projetos em destaque`
+## `> projetos`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☯️ DAO: O Caminho Sem Fim
-RPG 2D de cultivação (xianxia/wuxia) com combate em tempo real e pixel art. Lore própria documentada numa *Bíblia de Lore*.
-
-`Godot 4` `GDScript` `Pixel Art`
-
-[**→ ver repositório**](https://github.com/IsaacMSilva/dao-o-caminho-sem-fim)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐉 Ragnarök: Echoes of Níðhöggr
-RPG de fantasia nórdica em primeira pessoa, com dungeon de sete salas, do Arsenal ao Santuário.
-
-`Godot 4` `GDScript` `3D`
-
-[**→ ver repositório**](https://github.com/IsaacMSilva/ragnarok)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 GREENBYTE
-Jogo de automação agrícola: você programa drones em **Python** para plantar e colher. Executor seguro baseado em AST.
-
-`Godot 4` `Python` `Automação`
-
-[**→ ver repositório**](https://github.com/IsaacMSilva/greenbyte)
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Infinite Capital
-Jogo de progressão econômica: construa, invista e escale seu império.
-
-`Game Dev`
-
-[**→ ver repositório**](https://github.com/IsaacMSilva/infinite-capital)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟥 CORE
-"Command center" pessoal em PWA: tarefas, hábitos, foco/Pomodoro, estudos e missões. Visual HUD tático, offline-first.
-
-`HTML` `CSS` `JS` `IndexedDB` `Service Worker`
-
-[**→ ver repositório**](https://github.com/IsaacMSilva/core)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎧 Spotify Clone
-Recriação do Spotify com busca de músicas reais, fila, playlists e tela de álbum.
+### 📦 EasyStock — Controle de Estoque
+Sistema web para controle de estoque: cadastro de produtos, entradas e saídas.
 
 `HTML` `CSS` `JavaScript`
 
-[**→ ver repositório**](https://github.com/IsaacMSilva/spotify-clone)
+[**→ repositório**](https://github.com/IsaacMSilva/Controle-de-Estoque) · [**→ ver online**](https://easystockbr.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎧 BeatDrop Music
+Site de música com interface inspirada em players de streaming.
+
+`HTML` `CSS` `JavaScript`
+
+[**→ repositório**](https://github.com/IsaacMSilva/BeatDrop---Music) · [**→ ver online**](https://beatdropmusic.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Portfolio Base Template
+Template base para portfólio pessoal, pronto para personalizar.
+
+`HTML` `CSS` `JavaScript`
+
+[**→ repositório**](https://github.com/IsaacMSilva/portfolio-base-template)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Em desenvolvimento
+
+- ☯️ **DAO: O Caminho Sem Fim** — RPG 2D de cultivação (xianxia), Godot 4
+- 🐉 **Ragnarök: Echoes of Níðhöggr** — RPG nórdico em 1ª pessoa, Godot 4
+- 🌱 **GREENBYTE** — automação agrícola programando drones em Python
+- 🟥 **CORE** — PWA offline-first de tarefas, hábitos e foco
 
 </td>
 </tr>
@@ -129,49 +102,58 @@ Recriação do Spotify com busca de músicas reais, fila, playlists e tela de á
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IsaacMSilva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050607&title_color=c1121f&icon_color=c1121f&text_color=c9c9c9&locale=pt-br" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMSilva&layout=compact&langs_count=8&hide_border=true&bg_color=050607&title_color=c1121f&text_color=c9c9c9&locale=pt-br" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsaacMSilva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050607&title_color=c1121f&icon_color=c1121f&text_color=c9c9c9&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMSilva&layout=compact&langs_count=6&hide_border=true&bg_color=050607&title_color=c1121f&text_color=c9c9c9&locale=pt-br" />
 
 <img src="https://streak-stats.demolab.com?user=IsaacMSilva&hide_border=true&background=050607&ring=C1121F&fire=C1121F&currStreakLabel=C1121F&sideLabels=C9C9C9&currStreakNum=E8E6E3&sideNums=E8E6E3&dates=7A7A7A&stroke=1A1A1A&locale=pt_BR" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsaacMSilva&bg_color=050607&color=c9c9c9&line=c1121f&point=e8e6e3&area=true&area_color=c1121f&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%"/>
+<br/><br/>
 
-</div>
-
----
-
-## `> conquistas`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IsaacMSilva&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
----
-
-## `> contato`
-
-<div align="center">
-
-<a href="mailto:contato.isaacmangelli@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c1121f" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/isaac-mangelli-silva-3765ab35a/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c1121f" /></a>
-<a href="https://IsaacMSilva.itch.io"><img src="https://img.shields.io/badge/itch.io-0d1117?style=for-the-badge&logo=itchdotio&logoColor=c1121f" /></a>
-<a href="https://discord.com/users/mangelli2806_42871"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c1121f" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Cobrinha comendo seus commits: precisa do workflow .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake.svg" />
-  <img alt="cobrinha de contribuições" src="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake-dark.svg" />
+  <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake-dark.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:3a0a0d,100:050607&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=IsaacMSilva&color=c1121f&style=flat-square&label=visitas" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:3a0a0d,100:050607&height=110&section=footer" width="100%"/>
+
+2. Workflow da cobrinha
+
+Abra https://github.com/IsaacMSilva/IsaacMSilva/new/main e, no campo do nome, digite exatamente .github/workflows/snake.yml. As pastas são criadas sozinhas enquanto você digita. Depois cole o texto abaixo e clique em Commit changes:
+
+name: Gerar cobrinha de contribuições
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}srcset="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake.svg" />
+  <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/IsaacMSilva/IsaacMSilva/output/github-snake-dark.svg" />
+</picture>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=IsaacMSilva&color=c1121f&style=flat-square&label=visitas" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,50:3a0a0d,100:050607&height=110&section=footer" width="100%"/>
